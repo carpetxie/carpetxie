@@ -17,7 +17,7 @@
 >
 > I'm an undergrad at **Dartmouth College** (Math + CS + Philosophy) interested in the space between **machine learning**, **human-centered AI**, and **applied systems**.  
 > I enjoy working on problems where the bottleneck lean closer to creative ideation than execution. This is a mix of research and engineering: training and steering models, building data/ML pipelines, and shipping full-stack features that people actually use.
-
+>
 > This page is a quick snapshot of what I do and what I enjoy building. I keep more details and links on [jxie.me](https://jxie.me).
 
 ---
@@ -25,11 +25,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Garamont&duration=5010&pause=1000&color=000000&width=435&lines=What+I+am+working+on...)](https://git.io/typing-svg)
 
 > [!NOTE]
-> **Current focus areas:**
->
-> - **LLM steering and representation learning** – working on representation fine-tuning and intervention subspaces for controlling traits in large language models.  
-> - **Applied ML in products** – building and shipping ML-powered features and backend services for real use cases (e.g., insurance underwriting, financial data systems).  
-> - **Signals, time series, and human behavior** – using ML and signal processing for domains like weather forecasting and crisis hotline dynamics.
+> **Current areas of focus:**
+> *This is for the Dartmouth Winter 26 Term.*
+> - **LLM steering and representation learning** – Full sprinting on representation fine-tuning and intervention subspaces for controlling traits in LLMs. 
+> - **Hackathons** – Will try to attend(and win) >= 2 hackathons in W26.
+> - **Skiing** - I must learn how to ski. 
 
 ---
 
