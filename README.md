@@ -18,6 +18,7 @@
 > I'm an undergrad at **Dartmouth College** (Math + CS + Philosophy) interested in the space between **machine learning**, **human-centered AI**, and **applied systems**.
 > 
 > I spent this past summer automating underwriting at Adaptional (YC S25). I've since returned to school and write conduct research / write blogs for Adaptional. 
+>
 >I enjoy working on problems where the bottleneck lean closer to creative ideation than execution. This is a mix of research and engineering: training and steering models, building data/ML pipelines, and shipping full-stack features that people actually use.
 >
 > This page is a quick snapshot of what I do and what I enjoy building. I keep more details and links on [jxie.me](https://jxie.me).
