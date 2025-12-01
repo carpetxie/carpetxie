@@ -26,58 +26,27 @@
 
 > [!NOTE]
 > **Current areas of focus:**
+>
 > *This is for the Dartmouth Winter 26 Term.*
 > - **LLM steering and representation learning** – Full sprinting on representation fine-tuning and intervention subspaces for controlling traits in LLMs. 
 > - **Hackathons** – Will try to attend(and win) >= 2 hackathons in W26.
-> - **Skiing** - I must learn how to ski. 
+> - **Skiing** - I WILL learn how to ski. 
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=30&duration=6000&pause=1000&color=F7F7F7&width=600&lines=Selected+Projects%3A)](https://git.io/typing-svg)
 
-> [!TIP]
-> A few representative things I’ve worked on — you can find more in my pinned repositories or on my site.
-
-- **Crumbling Quote Signal Simulation**  
-  `Python · NumPy · pandas · SimPy · SciPy · Matplotlib · Jupyter`  
-  Simulations and analysis around “crumbling quote” dynamics and stress in IEX CQS, including large-scale agent-based and Hawkes process modeling.  
-  → Link: [IEX-CQI](https://github.com/carpetxie/IEX-CQI)
-
-- **CrisisHoldML**  
-  `PyTorch · pandas · Jupyter · Librosa · Survey data`  
-  ML models to study caller retention and escape motivation during suicide hotline wait times, in collaboration with partners across institutions.
-
-- **Neural Synchrony for Weather Forecasting**  
-  `PyTorch · NumPy · Signal processing`  
-  Experiments with complex-valued synchrony in artificial neurons for forecasting tasks, improving performance over real-valued baselines on weather data.
-
----
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=30&duration=6000&pause=1000&color=F7F7F7&width=600&lines=Tech+I+Like+To+Use%3A)](https://git.io/typing-svg)
-
-> [!IMPORTANT]
-> **Languages**: C/C++, Python, Java, TypeScript, JavaScript, SQL, HTML/CSS  
-> **Frameworks / Libraries**: PyTorch, Hugging Face Transformers, LangChain, FastAPI, Flask, Next.js, NestJS, Express, Node.js  
-> **Tools / Infra**: AWS Lambda, Docker, Kubernetes, gRPC, GraphQL, Redis, MongoDB, PostgreSQL, Postman  
-> This will evolve over time, but it’s a rough snapshot of what I’ve been using recently.
-
----
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=30&duration=6000&pause=1000&color=F7F7F7&width=600&lines=Writing+%26+Links%3A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Garamont&duration=5010&pause=1000&color=000000&width=435&lines=My+writing...)](https://git.io/typing-svg)
 
 > [!NOTE]
 > A few external places where things I work on tend to show up.
 
-<!-- BLOG-POST-LIST:START -->
 - [Research, projects, and notes](https://jxie.me)
-<!-- You can add specific posts or talks here later -->
-<!-- BLOG-POST-LIST:END -->
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=30&duration=6000&pause=1000&color=F7F7F7&width=600&lines=More+About+Me%3A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Garamont&duration=5010&pause=1000&color=000000&width=435&lines=More+about+me...)](https://git.io/typing-svg)
 
 > [!TIP]
 > **Highlights**: 1st / 1150 *Hackathon for Peace* · 1st / 192 *Concordia Hackathon* · Invited Speaker, *Ohio State Psychology Department*.  
 > **Outside of code**: urban photography, violin in stairwells, powerlifting, sunset running, and gardening.  
-> You can always trim or expand this section depending on how much you want to share.
+
