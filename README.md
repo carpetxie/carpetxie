@@ -35,18 +35,11 @@
 ---
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Garamont&duration=5010&pause=1000&color=000000&width=435&lines=My+writing...)](https://git.io/typing-svg)
-
-> [!NOTE]
-> A few external places where things I work on tend to show up.
-
-- [Research, projects, and notes](https://jxie.me)
-
----
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Garamont&duration=5010&pause=1000&color=000000&width=435&lines=More+about+me...)](https://git.io/typing-svg)
 
 > [!TIP]
 > **Highlights**: 1st / 1150 *Hackathon for Peace* · 1st / 192 *Concordia Hackathon* · Invited Speaker, *Ohio State Psychology Department*.  
 > **Outside of code**: urban photography, violin in stairwells, powerlifting, sunset running, and gardening.  
+>A few external places where things I work on tend to show up.
+>[Research, projects, and notes](https://jxie.me)
 
